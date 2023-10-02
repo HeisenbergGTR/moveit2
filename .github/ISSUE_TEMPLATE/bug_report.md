@@ -1,9 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: bug
-assignees: ''
+Name: Bug report
+About: Create a report to help us improve
+Title: ''
+Labels: bug
+Assignees: ''
 
 ---
 
@@ -19,15 +19,15 @@ Overview of your issue here.
 * If source, which branch?
 * Which RMW (Fast DDS or Cyclone DDS)? Humble or Rolling should be using Cyclone.
 
-### Steps to reproduce
+### What are the steps to reproduce:
 Tell us how to reproduce this issue. Attempt to provide a working demo, perhaps using Docker.
 
-### Expected behaviour
+### What is the expected behaviour:
 Tell us what should happen
 
-### Actual behaviour
+### What is the actual behaviour:
 Tell us what happens instead
 
-### Backtrace or Console output
+### Include Backtrace or Console output:
 
 Use [gist.github.com](gist.github.com) to copy-paste the console output or segfault backtrace using gdb.
